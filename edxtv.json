@@ -1,0 +1,9 @@
+{
+  "media": [
+    { "type": "filme", "category": "filmes-carousel", "title": "Duna: Parte 2", "cover": "https://i.imgur.com/Qy2E3uB.jpg", "video": "https://www.w3schools.com/html/mov_bbb.mp4" },
+    { "type": "serie", "category": "series-carousel", "title": "The Witcher", "cover": "https://i.imgur.com/D470A2s.jpg", "video": "https://www.w3schools.com/html/mov_bbb.mp4" },
+    { "type": "filme", "category": "acao-carousel", "title": "Big Buck Bunny", "cover": "https://i.imgur.com/L4i1J4o.jpg", "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+    { "type": "tv", "category": "tv-carousel", "title": "Notícias Ao Vivo", "cover": "https://i.imgur.com/G5GYD2P.png", "video": "https://cdn.jwplayer.com/manifests/pZxWfU6d.m3u8" },
+    { "type": "serie", "category": "series-carousel", "title": "Stranger Things", "cover": "https://i.imgur.com/39a6k2C.jpg", "video": "https://www.w3schools.com/html/mov_bbb.mp4" }
+  ]
+}
